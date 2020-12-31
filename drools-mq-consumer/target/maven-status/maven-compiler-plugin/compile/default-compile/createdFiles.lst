@@ -1,0 +1,10 @@
+com\purcotton\promotion\mq\message\constant\MessageConstant.class
+com\purcotton\promotion\mq\message\controller\TestController$1.class
+com\purcotton\promotion\mq\message\DroolsMqConsumerApplication.class
+com\purcotton\promotion\mq\message\dto\SendMessageDto.class
+com\purcotton\promotion\mq\message\dto\TestObject.class
+com\purcotton\promotion\mq\message\controller\TestController.class
+com\purcotton\promotion\mq\message\controller\TestController$2.class
+com\purcotton\promotion\mq\message\dto\PushTheDetailVo.class
+com\purcotton\promotion\mq\message\consumer\TestConsumer.class
+com\purcotton\promotion\mq\message\dto\PushTheDetailCacheVo.class

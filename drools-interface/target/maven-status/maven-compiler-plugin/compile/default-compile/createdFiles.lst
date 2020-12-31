@@ -1,0 +1,7 @@
+com\purcotton\promotion\api\service\DroolsExecuteService.class
+com\purcotton\promotion\api\bean\PromotionMQMessageInfo.class
+com\purcotton\promotion\api\bean\KieContaineString.class
+com\purcotton\promotion\api\bean\Condition.class
+com\purcotton\promotion\api\bean\PromotionJTRuleInfo.class
+com\purcotton\promotion\api\bean\PromotionRuleContent.class
+com\purcotton\promotion\api\bean\PromotionRuleParam.class

@@ -1,0 +1,7 @@
+com\purcotton\promotion\core\dao\KieContainerRepository.class
+com\purcotton\promotion\core\service\KieContainerService.class
+com\purcotton\promotion\core\util\KieSessionHelper.class
+com\purcotton\promotion\core\DroolsCoreApplication.class
+com\purcotton\promotion\core\util\KieContaineHelper.class
+com\purcotton\promotion\core\dao\PromotionRuleContentRepository.class
+com\purcotton\promotion\core\service\PromotionRuleContainerService.class

@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.206.208:1702/
+      name: tenant-drool-fact
+  redis:
+    database: 0
+    host: 192.168.220.168
+    password: purcotton@2020
+    pool:
+      max-active: 1000
+      max-idle: 100
+      max-wait: -1
+      min-idle: 1
+      timeout: 0
+    port: 6379

@@ -1,0 +1,9 @@
+com\purcotton\promotion\common\App.class
+com\purcotton\promotion\common\config\RedisConfig.class
+com\purcotton\promotion\common\constant\SystemDefineConstants.class
+com\purcotton\promotion\common\exception\JsonResponse.class
+com\purcotton\promotion\common\enums\SerialNumRule.class
+com\purcotton\promotion\common\constant\RedisKeysConstants.class
+com\purcotton\promotion\common\exception\BusinessException.class
+com\purcotton\promotion\common\exception\ExceptionType.class
+com\purcotton\promotion\common\exception\ActivityExceptionEnum.class

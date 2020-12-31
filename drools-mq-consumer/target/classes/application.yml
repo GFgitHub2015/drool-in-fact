@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: drools
+  data:
+    mongodb:
+      #host: 39.108.82.173
+      #database: articledb
+      #port: 27017
+      #uri: mongodb://39.108.82.173:27017,39.108.82.173:27018,39.108.82.173:27019/articledb?connect=replicaSet&slaveOk=true&replicaSet=myrs
+      uri: mongodb://39.108.82.173:27017,39.108.82.173:27117/articledb
+
+#spring:
+#数据源配置
+ # data:
+  #  mongodb:
+# 主机地址
+#host: 192.168.40.141
+# 数据库
+#database: articledb
+# 默认端口是27017
+#port: 27017
+#也可以使用uri连接
+server:
+  port: 8085
+#uri: mongodb://39.108.82.173:27017/articledb
+purcotton:
+  cloud:
+    message:
+      access-key: gEJFBFLhwsl7yDobojATLUug
+      secret-key: QrCvYglyP6CnGQfPgwQWC0D5BWNoSL
+      instance-id: 5fe2ab00e9989850171f3124
+      addr: http://192.168.217.56:1790/fetch/v3/%s
